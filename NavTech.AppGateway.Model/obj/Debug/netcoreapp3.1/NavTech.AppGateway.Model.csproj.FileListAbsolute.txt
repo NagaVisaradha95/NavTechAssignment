@@ -1,0 +1,9 @@
+D:\Sample Programs\NavTech.AppGateway\NavTech.AppGateway.Model\bin\Debug\netcoreapp3.1\NavTech.AppGateway.Model.deps.json
+D:\Sample Programs\NavTech.AppGateway\NavTech.AppGateway.Model\bin\Debug\netcoreapp3.1\NavTech.AppGateway.Model.dll
+D:\Sample Programs\NavTech.AppGateway\NavTech.AppGateway.Model\bin\Debug\netcoreapp3.1\NavTech.AppGateway.Model.pdb
+D:\Sample Programs\NavTech.AppGateway\NavTech.AppGateway.Model\obj\Debug\netcoreapp3.1\NavTech.AppGateway.Model.csproj.AssemblyReference.cache
+D:\Sample Programs\NavTech.AppGateway\NavTech.AppGateway.Model\obj\Debug\netcoreapp3.1\NavTech.AppGateway.Model.AssemblyInfoInputs.cache
+D:\Sample Programs\NavTech.AppGateway\NavTech.AppGateway.Model\obj\Debug\netcoreapp3.1\NavTech.AppGateway.Model.AssemblyInfo.cs
+D:\Sample Programs\NavTech.AppGateway\NavTech.AppGateway.Model\obj\Debug\netcoreapp3.1\NavTech.AppGateway.Model.csproj.CoreCompileInputs.cache
+D:\Sample Programs\NavTech.AppGateway\NavTech.AppGateway.Model\obj\Debug\netcoreapp3.1\NavTech.AppGateway.Model.dll
+D:\Sample Programs\NavTech.AppGateway\NavTech.AppGateway.Model\obj\Debug\netcoreapp3.1\NavTech.AppGateway.Model.pdb

@@ -1,0 +1,12 @@
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\bin\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.deps.json
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\bin\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.dll
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\bin\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.pdb
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\obj\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.csproj.AssemblyReference.cache
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\obj\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.AssemblyInfoInputs.cache
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\obj\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.AssemblyInfo.cs
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\obj\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.csproj.CoreCompileInputs.cache
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\obj\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.dll
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\obj\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.pdb
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\bin\Debug\netcoreapp3.1\NavTech.AppGateway.Model.dll
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\bin\Debug\netcoreapp3.1\NavTech.AppGateway.Model.pdb
+D:\Sample Programs\NavTech.AppGateway\NavTech.BusinessProcess.Interfaces\obj\Debug\netcoreapp3.1\NavTech.BusinessProcess.Interfaces.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\Sample Programs\NavTech.AppGateway\NavTech.DataAccess.Helpers\bin\Debug\netcoreapp3.1\NavTech.DataAccess.Helpers.deps.json
+D:\Sample Programs\NavTech.AppGateway\NavTech.DataAccess.Helpers\bin\Debug\netcoreapp3.1\NavTech.DataAccess.Helpers.dll
+D:\Sample Programs\NavTech.AppGateway\NavTech.DataAccess.Helpers\bin\Debug\netcoreapp3.1\NavTech.DataAccess.Helpers.pdb
+D:\Sample Programs\NavTech.AppGateway\NavTech.DataAccess.Helpers\obj\Debug\netcoreapp3.1\NavTech.DataAccess.Helpers.csproj.AssemblyReference.cache
+D:\Sample Programs\NavTech.AppGateway\NavTech.DataAccess.Helpers\obj\Debug\netcoreapp3.1\NavTech.DataAccess.Helpers.AssemblyInfoInputs.cache
+D:\Sample Programs\NavTech.AppGateway\NavTech.DataAccess.Helpers\obj\Debug\netcoreapp3.1\NavTech.DataAccess.Helpers.AssemblyInfo.cs
+D:\Sample Programs\NavTech.AppGateway\NavTech.DataAccess.Helpers\obj\Debug\netcoreapp3.1\NavTech.DataAccess.Helpers.csproj.CoreCompileInputs.cache
+D:\Sample Programs\NavTech.AppGateway\NavTech.DataAccess.Helpers\obj\Debug\netcoreapp3.1\NavTech.DataAccess.Helpers.dll
+D:\Sample Programs\NavTech.AppGateway\NavTech.DataAccess.Helpers\obj\Debug\netcoreapp3.1\NavTech.DataAccess.Helpers.pdb

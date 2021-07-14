@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\visar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\visar\\.nuget\\packages"
+    ]
+  }
+}
